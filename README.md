@@ -18,7 +18,7 @@
 <table width="100%" class="patientData">
 <tr>
 <td align="left" nowrap><b>Patient name:</b></td>
-<td>FRANCIS UKPOLO</td>
+<td>JOY ACHENYO EMMANUEL</td>
 </tr>
 <tr>
 <td align="left" nowrap><b>Laboratory code:<b/></td>
@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td align="left" nowrap><b>Collection date:</b></td>
-<td>30/05/2022 10:12</td>
+<td>01/07/2022 11:43</td>
 </tr>
 </table>
 <br>
